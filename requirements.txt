@@ -1,0 +1,9 @@
+pandas>=2.0
+openpyxl>=3.1
+matplotlib>=3.7
+pandas
+numpy
+matplotlib
+openpyxl
+jupyter
+notebook
